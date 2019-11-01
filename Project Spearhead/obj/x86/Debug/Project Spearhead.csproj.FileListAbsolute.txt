@@ -1,0 +1,49 @@
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\obj\x86\Debug\Project Spearhead.csproj.CoreCompileInputs.cache
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\gameOverSound.wma
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\gameOverSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\jumpSound.wma
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\jumpSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\scoreSound.wma
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\wma\scoreSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\background2.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\digits.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\gameOver.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\piller1.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\pillerSample.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Textures\player_withCutRects.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\gameOverSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\jumpSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Content\Audio\scoreSound.xnb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Project Spearhead.exe
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Project Spearhead.pdb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\MathNet.Numerics.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\obj\x86\Debug\Project Spearhead.csproj.CopyComplete
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\obj\x86\Debug\Project Spearhead.exe
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\obj\x86\Debug\Project Spearhead.pdb
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Project Spearhead.exe.config
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\log4net.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\Redzen.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpNeatLib.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\System.Buffers.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\System.Memory.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\System.Numerics.Vectors.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\obj\x86\Debug\Project Spearhead.csprojAssemblyReference.cache
+C:\Workspaces\C# workspace\Project Spearhead\Project Spearhead\bin\Windows\x86\Debug\SharpNeatDomains.dll
